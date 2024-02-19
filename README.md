@@ -19,10 +19,10 @@ Solução de melhoria desenvolvida para uma planilha com histórico de ativos.
             * Adição do novo registro na planilha "Base de Dados"
             * Validação para não permitir o registro de um Ativo sem o número do Imobilizado
             * Validação para não permitir o registro de um Ativo existente
-    - Consulta de um Ativo
-            * Validação para verificar se o ativo já está cadastrado na planilha "Base de Dados"
-
-            * Busca realizada apenas através do número do Imobilizado
+    - Consulta de um Ativ
+  
+              * Validação para verificar se o ativo já está cadastrado na planilha "Base de Dados"
+              * Busca realizada apenas através do número do Imobilizado
     - Atualização de um Ativo
 
             * Busca realizada através do número do Imobilizado
