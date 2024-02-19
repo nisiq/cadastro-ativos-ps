@@ -38,5 +38,14 @@ Solução de melhoria desenvolvida para uma planilha com histórico de ativos.
               o responsável pela remoção e a data/horário.
 
 
+## Futuras Melhorias
+        * Formulário Expandido
+        * Opção para Limpar Formulário
+        * Senha na planilha Base de Dados e Ativos Removidos
+        * Histórico de Atualizações
+        * Fórmula para cálculo de Depreciação?
+        * Filtro de Ativos por Responsável
+
+
 ## Como rodar?
 
