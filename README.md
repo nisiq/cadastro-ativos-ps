@@ -11,7 +11,7 @@ Solução de melhoria desenvolvida para uma planilha com histórico de ativos.
     - Cadastro de um novo ativo
                     
             * Definição de campos obrigatórios a serem preenchidos
-                     Número do Imobilizado
+                    - Número do Imobilizado
                     - Denominação
                     - Local
                     - Responsável Atual
