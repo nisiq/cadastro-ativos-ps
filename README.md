@@ -41,10 +41,11 @@ Solução de melhoria desenvolvida para uma planilha com histórico de ativos.
 ## Futuras Melhorias
         1. Formulário Expandido
         2. Opção para Limpar Formulário
-        3. Senha na planilha Base de Dados e Ativos Removidos
+        3. Senha na planilha "Base de Dados" e "Ativos Removidos"
         4. Histórico de Atualizações
         5. Fórmula para cálculo de Depreciação?
         6. Filtro de Ativos por Responsável
+        7. Não permitir alterações diretas nas planilhas "Base de Dados" e "Ativos Removidos"
 
 
 ## Como rodar?
