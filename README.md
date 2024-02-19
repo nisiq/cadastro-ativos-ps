@@ -29,9 +29,12 @@ Solução de melhoria desenvolvida para uma planilha com histórico de ativos.
             * Adição do Registro Atualizado na planilha "Base de Dados"
     - Remoção de um Ativo
             
-            * Para remoção do ativo é necessário realizar processos e obter autorizações através do SAP, entende-se que, o ativo será removido da planilha apenas após todas autorizações.
+            * Para remoção do ativo é necessário realizar processos e obter autorizações através do SAP,
+              entende-se que, o ativo será removido da planilha apenas após todas autorizações.
             * Remoção através do número do Imobilizado
-            * O ativo não é removido de forma definitiva, ele solicita o nome de um responsável, remove na planilhaBase de Dados e leva para a planilha "Ativos Removidos", mantendo, além dos dados do Ativo, o responsável pela remoção e a data/horário.
+            * O ativo não é removido de forma definitiva, ele solicita o nome de um responsável,
+              remove na planilhaBase de Dados e leva para a planilha "Ativos Removidos", mantendo, além dos dados do Ativo,
+              o responsável pela remoção e a data/horário.
 
 
 ## Como rodar?
